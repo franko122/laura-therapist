@@ -10,6 +10,12 @@
         margin: auto;
         width: 80%;
     }
+
+    .mited{
+        width:80%;
+        background: purple;
+        height: 200px;
+    }
     .mailua{
         width:90%;
         text-align: center;
