@@ -27,7 +27,7 @@
         animation-duration: 2s;
         animation-iteration-count: infinite;
     }
-    @keyframes example {
+    @keyframes mite {
   from {background-color: white ;}
   to {background-color: purple;}
     }
