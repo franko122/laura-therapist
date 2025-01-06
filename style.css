@@ -14,7 +14,9 @@
     .mited{
         width:80%;
         background: purple;
+        margin: auto;
         height: 200px;
+        border-raduis:10px;
     }
     .mailua{
         width:90%;
