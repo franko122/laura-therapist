@@ -76,13 +76,13 @@
         justify-content: center;
     }
     .me{
-        width: 8%;
+        width: 10%;
         display: flex;
         align-items: center;
         justify-content: center;
         justify-content: space-around;
         margin-right:10px;
-        background-color: pink;
+        background-color: white ;
     }
     .me1{
         border-radius: 10px;
