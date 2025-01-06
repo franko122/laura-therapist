@@ -17,7 +17,7 @@
     }
     .okol{
         outline: none;
-        border: solid  rgba(0, 0, 0, 0.479) 3px;
+        border: solid purple 3px;
         width: 90%;
         padding:15px;
         border-radius: 10px;
@@ -28,11 +28,11 @@
         padding:15px;
         border-radius: 10px;
         width: 60%;
-        border: solid  rgba(0, 0, 0, 0.479) 3px;
+        border: solid  purple 3px;
     }
     .okols{
         outline: none;
-        border: solid  rgba(0, 0, 0, 0.479) 3px;
+        border: solid purple 3px;
         width: 90%;
         padding:15px;
         height:100px;
@@ -182,7 +182,7 @@
     
     .okol{
         outline: none;
-        border: solid  rgba(0, 0, 0, 0.479) 3px;
+        border: solid  purple 3px;
         width: 90%;
         padding:15px;
         border-radius: 10px;
@@ -197,7 +197,7 @@
     }
     .okols{
         outline: none;
-        border: solid  rgba(0, 0, 0, 0.479) 3px;
+        border: solid  purple 3px;
         width: 90%;
         padding:15px;
         height:100px;
