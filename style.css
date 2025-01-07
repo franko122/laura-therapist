@@ -30,10 +30,10 @@
     }
     @keyframes mite {
   from {
-      font-size:30px;
+      width:0%;
   }
   to {
-      font-size:10px;
+      font-size:100%;
   }
     }
     .mailua{
