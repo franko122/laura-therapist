@@ -10,7 +10,9 @@
         margin: auto;
         width: 100%;
     }
-
+  .parant{
+      width:90%;
+  }
     .mited{
         width:90%;
         background: purple;
