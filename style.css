@@ -30,10 +30,10 @@
     }
     @keyframes mite {
   from {
-      font-size:30px;;
+      font-size:30px;
   }
   to {
-      font-size:30px;;
+      font-size:10px;
   }
     }
     .mailua{
@@ -177,7 +177,7 @@
         height:60px;
     }
     .sub{
-        background-color: red;
+        background-color: white;
         color: white;
         height: 60px;
         width: 22%;
@@ -185,6 +185,7 @@
         border-radius: 5px; 
         border: none;
         padding: 10px;
+        color: black;
     }
     .ipol{
         width: 70%;
