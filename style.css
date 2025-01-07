@@ -22,6 +22,7 @@
         font-size:16px;
         display:flex;
         justify-content: center;
+        background-image: linear-gradient(red, white,blue,);
         align-items:center;
         animation-name:mite;
         animation-duration: 2s;
