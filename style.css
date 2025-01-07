@@ -32,7 +32,7 @@
     }
     @keyframes mite {
   from {
-      width:0%;
+      font-size:0%;
   }
   to {
       font-size:100%;
