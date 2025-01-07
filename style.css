@@ -28,8 +28,12 @@
         animation-iteration-count: infinite;
     }
     @keyframes mite {
-  from {background-color: white ;}
-  to {background-color: purple;}
+  from {
+      font-size:30px;;
+  }
+  to {
+      font-size:30px;;
+  }
     }
     .mailua{
         width:90%;
