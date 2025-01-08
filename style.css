@@ -10,6 +10,9 @@
         margin: auto;
         width: 100%;
     }
+    .wen{
+        display:none;
+    }
     .mited{
         width:90%;
         background: purple;
@@ -200,6 +203,9 @@
 
 /* tablet screen */
 @media(min-width:600px){
+.wen{
+    display:block;
+}
         .mited{
         width:90%;
         background: purple;
@@ -412,6 +418,10 @@
 
 /* laptop screen */
 @media(min-width:600px){
+       .wen{
+             display:block;
+           } 
+
         .mited{
         width:90%;
         background: purple;
