@@ -10,9 +10,14 @@
         width:95%;
         padding:4px;
         background-color: purple;
+        color:white; 
+        display:flex;
+        align-items:center;
+        font:bold ;
+        
         height:60px;
         margin:auto;
-        border-raduis:10px;
+        border-radius:10px;
     }
     .lokm{
         margin: auto;
