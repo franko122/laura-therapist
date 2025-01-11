@@ -11,6 +11,8 @@
         padding:4px;
         background-color: purple;
         height:60px;
+        margin:auto;
+        border-raduis:10px;
     }
     .lokm{
         margin: auto;
