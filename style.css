@@ -217,7 +217,7 @@
 /* tablet screen */
 @media(min-width:600px){
       .tus{
-        width:95%;
+        width:75%;
         padding:4px;
         background-color: purple;
         color:white; 
@@ -445,7 +445,7 @@
 /* laptop screen */
 @media(min-width:600px){
       .tus{
-        width:95%;
+        width:75%;
         padding:4px;
         background-color: purple;
         color:white; 
