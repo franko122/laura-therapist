@@ -388,7 +388,6 @@
         height: 100vh;
         z-index: 2322;
         display: flex;
-        margin-left: -77px;
         align-items: center;
         justify-content: center;
         position: fixed;
@@ -588,7 +587,6 @@
         height: 100vh;
         z-index: 2322;
         display: flex;
-        margin-left: -222px;
         align-items: center;
         justify-content: center;
         position: fixed;
