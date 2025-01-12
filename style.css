@@ -390,7 +390,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-left:-105px;
+        margin-left:-0px;
         position: fixed;
         background-color: purple; 
     }   
