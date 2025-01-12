@@ -216,6 +216,19 @@
 
 /* tablet screen */
 @media(min-width:600px){
+      .tus{
+        width:95%;
+        padding:4px;
+        background-color: purple;
+        color:white; 
+        display:flex;
+        align-items:center;
+        font:bold ;
+        justify-content: space-around;
+        height:60px;
+        margin:auto;
+        border-radius:10px;
+      }
 .wen{
     display:block;
 }
@@ -431,6 +444,19 @@
 
 /* laptop screen */
 @media(min-width:600px){
+      .tus{
+        width:95%;
+        padding:4px;
+        background-color: purple;
+        color:white; 
+        display:flex;
+        align-items:center;
+        font:bold ;
+        justify-content: space-around;
+        height:60px;
+        margin:auto;
+        border-radius:10px;
+  }
        .wen{
              display:block;
            } 
