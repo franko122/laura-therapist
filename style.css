@@ -390,6 +390,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-left:-95px;
         position: fixed;
         background-color: purple; 
     }   
@@ -589,6 +590,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-left:-95px;
         position: fixed;
         background-color: purple; 
     }   
