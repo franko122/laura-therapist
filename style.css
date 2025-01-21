@@ -30,7 +30,9 @@
     }
     .parant{
         width:90%;
+        border:solid 2px purple;
         height:450%;
+        border-raduis:10px;
         margin:auto;
          background-blend-mode: multiple;
         background-image: url(" asset/head.jpg");
