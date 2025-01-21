@@ -28,6 +28,13 @@
         margin: auto;
         width: 100%;
     }
+    .parant{
+        width:90%;
+        margin:auto;
+         background-blend-mode: multiple;
+        background-image: url(" asset/dont-worry-all-done-everything-control-confident-happy-relaxed-redhead-girl-saying-all-oka.jpg");
+        background-size:cover;
+    }
     .wen{
         display:none;
     }
@@ -36,13 +43,10 @@
         margin: auto;
         height:150px;
         border-radius:10px;
-        background-image: url(" asset/dont-worry-all-done-everything-control-confident-happy-relaxed-redhead-girl-saying-all-oka.jpg");
         font:bold;
         color:white;
         font-size:16px;
         display:flex;
-        background-blend-mode: multiple;
-        background-size:cover
         justify-content: center;
         background-image: linear-gradient(red, white,blue,);
         align-items:center;
