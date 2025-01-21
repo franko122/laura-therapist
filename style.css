@@ -121,6 +121,7 @@
         font-size: 11px;
         background-image: url(" asset/dont-worry-all-done-everything-control-confident-happy-relaxed-redhead-girl-saying-all-oka.jpg");
         justify-content: center;
+        background-blend-mode: multiple;
     }
     .me{
         width: 12%;
