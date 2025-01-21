@@ -45,23 +45,13 @@
         border-radius:10px;
         font:bold;
         color:white;
-        font-size:16px;
+        font-size:86px;
         display:flex;
         justify-content: center;
         background-image: linear-gradient(red, white,blue,);
         align-items:center;
-        animation-name:mite;
-        animation-duration: 2s;
-        animation-iteration-count: infinite;
     }
-    @keyframes mite {
-  from {
-      font-size:0%;
-  }
-  to {
-      font-size:100%;
-  }
-    }
+    
     .mailua{
         width:90%;
         text-align: center;
