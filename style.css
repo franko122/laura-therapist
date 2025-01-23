@@ -37,7 +37,7 @@
         margin:auto;
          background-blend-mode: multiple;
         background-image: url("./asset/smile.jpg");
-        background-size:cover;
+        background-size:100% 100% 100% 100%;
     }
     .wen{
         display:none;
