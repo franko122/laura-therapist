@@ -21,8 +21,8 @@
     }
     .hold{
         width:95%;
-        height:500px;
         background-color: purple;
+        padding:5px;
         margin: auto;
         border-radius:10px;
     }
